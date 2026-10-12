@@ -1,4 +1,4 @@
-# Day 13: Live Sensor + TinyML
+# Day 14: Live Sensor + TinyML
 
 This project reads light levels from an LDR sensor and uses an on-device TensorFlow Lite for Microcontrollers model to classify the environment as **Dark**, **Normal**, or **Bright**. The ESP32 displays the live reading and classification on an OLED.
 
